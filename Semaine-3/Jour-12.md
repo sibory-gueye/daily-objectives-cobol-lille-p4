@@ -61,7 +61,7 @@ Les modules du niveau **Fundamentals** introduisent les **bases de l’environne
 ---
 
 
-#### **Exercice 2 : Manipulation de données dans une table**
+#### **(Bonus) Exercice 2 : Manipulation de données dans une table**
 
 
 - [ ] Écrire un programme pour gérer une table de données contenant des informations sur des personnes. Le programme doit :
