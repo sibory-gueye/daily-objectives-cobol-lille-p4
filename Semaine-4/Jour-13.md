@@ -8,6 +8,8 @@
 * [ ] S'assurer de la compréhension des premiers modules Zowe
 * [ ] Conforter ses acquis en COBOL des premières semaines par la pratique d'exercices
 
+---
+
 #### **Exercice 1 : Conversion en chiffres romains**
 
 
