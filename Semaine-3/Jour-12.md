@@ -1,7 +1,6 @@
 # Objectifs journaliers MS COBOL P4
 
-
-### Vendredi 9 Mai
+## Vendredi 9 Mai
 
 ## IBM Z Xplore – Réalisé ses premiers modules  
 
@@ -46,25 +45,22 @@ Les modules du niveau **Fundamentals** introduisent les **bases de l’environne
 
 ---
 
-## Renforcer vos compétences en COBOL à travers une série d'exercices pratiques. 
+## Renforcer vos compétences en COBOL à travers une série d'exercices pratiques
 
 #### **Exercice 1 : Saisie et affichage formaté de notes avec FILLER**
 
-
 * [ ] Demander à l’utilisateur de saisir une série de notes (de 0 à 99) et leurs dates associées (au format JJ/MM/AAAA), puis afficher les données avec une mise en forme à l’aide de FILLER.
 
-- Stocke les notes et les dates dans une table avec un OCCURS.
-- Utilise des champs FILLER pour formater l’affichage de chaque ligne.
-- Limite la saisie à 100 enregistrements, avec une option d’arrêt anticipée (ex. : note = 99).
-- Affiche chaque note avec sa date dans une ligne formatée de type : `Note : 87 le 06/05/2025`.
+* Stocke les notes et les dates dans une table avec un OCCURS.
+* Utilise des champs FILLER pour formater l’affichage de chaque ligne.
+* Limite la saisie à 100 enregistrements, avec une option d’arrêt anticipée (ex. : note = 99).
+* Affiche chaque note avec sa date dans une ligne formatée de type : `Note : 87 le 06/05/2025`.
 
 ---
 
-
 #### **(Bonus) Exercice 2 : Manipulation de données dans une table**
 
-
-- [ ] Écrire un programme pour gérer une table de données contenant des informations sur des personnes. Le programme doit :
+* [ ] Écrire un programme pour gérer une table de données contenant des informations sur des personnes. Le programme doit :
 
 1. Transférer des données depuis une chaîne pré-définie.
 2. Afficher toutes les informations pour chaque personne dans la table.
@@ -75,4 +71,3 @@ Les modules du niveau **Fundamentals** introduisent les **bases de l’environne
 * Utilise l’indexation pour extraire des informations spécifiques.
 
 ---
-
