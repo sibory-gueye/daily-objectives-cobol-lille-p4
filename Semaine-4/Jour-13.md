@@ -15,7 +15,7 @@
 
 - [ ] Demander à l'utilisateur de saisir un nombre entier entre 1 et 3999, puis afficher ce nombre en chiffres romains.
 
-* Utilise un tableau des valeurs des chiffres romains pour effectuer la conversion.
+* Utilise un tableau des valeurs des chiffres romains ptour effectuer la conversion.
 * Applique des soustractions successives pour obtenir le chiffre romain.
 
 ---
