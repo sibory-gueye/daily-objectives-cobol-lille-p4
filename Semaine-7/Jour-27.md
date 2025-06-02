@@ -5,7 +5,7 @@
 
 ## IBM Z Xplore – Completer ses premiers modules  
 
-## 🧱 Fundamentals Level
+## Fundamentals Level
 
 - [ ] Completer les premiers modules afin d'obtenir le badge **IBM Z Xplore - Concept** et le partager sur LinkedIn
 
